@@ -1,6 +1,6 @@
 https://sites.google.com/view/cfd-lecture
 
-CFD Class Codes - Taipei Tech
+CFD Class Codes - Taiwan Tech
 This repository provides code resources for students in the Computational Fluid Dynamics (CFD) class at Taipei Tech, designed to support learning and practical implementation of CFD concepts.
 
 Disclaimer
