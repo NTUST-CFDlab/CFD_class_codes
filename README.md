@@ -1,7 +1,7 @@
 https://sites.google.com/view/cfd-lecture
 
 CFD Class Codes - Taiwan Tech
-This repository provides code resources for students in the Computational Fluid Dynamics (CFD) class at Taipei Tech, designed to support learning and practical implementation of CFD concepts.
+This repository provides code resources for students in the Computational Fluid Dynamics (CFD) class at Taiwan Tech, designed to support learning and practical implementation of CFD concepts.
 
 Disclaimer
 The code provided in this repository is for educational purposes only. It is intended to assist students in learning CFD concepts and should not be used for commercial or critical applications without proper validation. The authors and contributors are not responsible for any errors, inaccuracies, or misuse of the code.
